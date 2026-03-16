@@ -2,6 +2,8 @@
 
 ## *MEDFISH101*
 
+> **IMPORTANT:** All images in this dataset are sourced from **iNaturalist**. All rights, titles, and ownership of these images belong strictly to their respective original creators and contributors on the iNaturalist platform.
+
 <div align="center">
   
 [![Dataset](https://img.shields.io/badge/Dataset-MEDFISH101-1f6feb)](#)
@@ -14,7 +16,6 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-supported-11557c)](https://matplotlib.org/)
 
 </div>
-
 
 *MEDFISH101* is a curated image dataset for Mediterranean fish species classification.  
 It contains **69,152 validated images** spanning **101 fish species** found in the Mediterranean Sea.
@@ -72,8 +73,3 @@ MEDFISH101/
 ├── Arnoglossus laterna/
 ├── ...
 └── Xyrichtys novacula/
-```
-
-### License
-Code and repository materials are released under the **Apache License 2.0**.  
-Image rights and redistribution terms may depend on the original source licenses of the images.
