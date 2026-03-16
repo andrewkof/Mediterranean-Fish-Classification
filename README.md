@@ -74,8 +74,6 @@ MEDFISH101/
 └── Xyrichtys novacula/
 
 
-```markdown
 ### License
-
 Code and repository materials are released under the **Apache License 2.0**.  
 Image rights and redistribution terms may depend on the original source licenses of the images.
