@@ -65,13 +65,14 @@ Each example contains:
 
 If you provide the dataset in folder-per-class format, the structure may look like:
 
+```text
 MEDFISH101/
 ├── Aidablennius sphynx/
 ├── Apogon imberbis/
 ├── Arnoglossus laterna/
 ├── ...
 └── Xyrichtys novacula/
-
+```
 
 ### License
 Code and repository materials are released under the **Apache License 2.0**.  
