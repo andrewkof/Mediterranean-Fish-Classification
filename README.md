@@ -51,9 +51,10 @@ Each example contains:
 
 If you provide the dataset in folder-per-class format, the structure may look like:
 
-```markdown
-Example class folders include:
-- *Aidablennius sphynx*
-- *Apogon imberbis*
-- *Arnoglossus laterna*
-- *Xyrichtys novacula*
+```text
+MEDFISH101/
+├── Aidablennius sphynx/
+├── Apogon imberbis/
+├── Arnoglossus laterna/
+├── ...
+└── Xyrichtys novacula/
