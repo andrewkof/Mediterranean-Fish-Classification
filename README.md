@@ -1,8 +1,8 @@
 # High-Accuracy Fish Species Identification Using Transfer Learning on Vision Foundation Models
 
-## MEDFISH101
+## *MEDFISH101*
 
-MEDFISH101 is a curated image dataset for Mediterranean fish species classification.  
+*MEDFISH101* is a curated image dataset for Mediterranean fish species classification.  
 It contains **69,152 validated images** spanning **101 fish species** found in the Mediterranean Sea.
 
 The dataset was created to support:
@@ -27,7 +27,7 @@ This dataset was introduced in the paper:
 The Mediterranean Sea is one of the most biodiverse yet heavily impacted marine ecosystems.  
 Reliable automated fish identification can help improve large-scale biodiversity monitoring, especially in citizen-science settings where observations are often contributed by non-experts.
 
-MEDFISH101 was designed to provide an open and curated benchmark for Mediterranean fish recognition and to support the development of AI tools for ecological monitoring.
+*MEDFISH101* was designed to provide an open and curated benchmark for Mediterranean fish recognition and to support the development of AI tools for ecological monitoring.
 
 ### Data Collection and Curation
 
@@ -52,9 +52,9 @@ Each example contains:
 If you provide the dataset in folder-per-class format, the structure may look like:
 
 ```text
-MEDFISH101/
-├── Aidablennius sphynx/
-├── Apogon imberbis/
-├── Arnoglossus laterna/
+*MEDFISH101*/
+├── *Aidablennius sphynx*/
+├── *Apogon imberbis*/
+├── *Arnoglossus laterna*/
 ├── ...
-└── Xyrichtys novacula/
+└── *Xyrichtys novacula*/
