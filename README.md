@@ -2,11 +2,20 @@
 
 ## *MEDFISH101*
 
+<div align="center">
+  
 [![Dataset](https://img.shields.io/badge/Dataset-MEDFISH101-1f6feb)](#)
 [![Images](https://img.shields.io/badge/Images-69,152-success)](#)
 [![Classes](https://img.shields.io/badge/Classes-101-orange)](#)
 [![Region](https://img.shields.io/badge/Region-Mediterranean-blue)](#)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green)](./LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-compatible-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-supported-11557c)](https://matplotlib.org/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-supported-f7931e?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+
+</div>
+
 
 *MEDFISH101* is a curated image dataset for Mediterranean fish species classification.  
 It contains **69,152 validated images** spanning **101 fish species** found in the Mediterranean Sea.
