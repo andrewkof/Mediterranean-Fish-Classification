@@ -12,7 +12,6 @@
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-compatible-013243?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-supported-11557c)](https://matplotlib.org/)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-supported-f7931e?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 
 </div>
 
@@ -73,3 +72,10 @@ MEDFISH101/
 ├── Arnoglossus laterna/
 ├── ...
 └── Xyrichtys novacula/
+
+
+## 📜 License
+
+This repository is released under the **Apache-2.0 License**.
+
+See the [LICENSE](./LICENSE) file for details.
