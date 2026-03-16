@@ -1,21 +1,3 @@
----
-license: other
-task_categories:
-  - image-classification
-language:
-  - en
-pretty_name: MEDFISH101
-size_categories:
-  - 10K<n<100K
-tags:
-  - fish
-  - marine-biology
-  - biodiversity
-  - citizen-science
-  - computer-vision
-  - image-classification
----
-
 # MEDFISH101
 
 MEDFISH101 is a curated image dataset for Mediterranean fish species classification.  
